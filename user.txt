@@ -1,0 +1,4 @@
+{
+  "username": "abhi",
+  "gender": "male"
+}
